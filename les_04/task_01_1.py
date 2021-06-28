@@ -137,3 +137,4 @@ n_min2 = random_array.remove(min(random_array))
 #                                   Вывод результата
 # ra_sum = sum(random_array)
 # print(f'Два самых минимальных числа в массиве: {n_min1}, {n_min2}. Сам массив: \n{random_array}')
+
